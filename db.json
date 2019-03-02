@@ -1,0 +1,12 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "HI There!!! This is the first note in the database!"
+    },
+    {
+      "body": "Grab some Chinese Takeout on the way home.",
+      "id": 2
+    }
+  ]
+}
